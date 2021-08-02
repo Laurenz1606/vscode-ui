@@ -45,7 +45,7 @@ export default function Sidebar2({ children, language, setSite }) {
           </div>
         </div>
       </div>
-      <div className="flex-1">{children}Hallo</div>
+      <div className="flex-1">{children}</div>
     </div>
   );
 }
